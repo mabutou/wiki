@@ -26,7 +26,7 @@
 * [正则表达式](zheng-ze-biao-da-shi/README.md)
   * [basic](zheng-ze-biao-da-shi/basic.md)
   * [regular expression](zheng-ze-biao-da-shi/regular-expression.md)
-* [cheatsheet](cheatsheet/README.md)
+* [Cheatsheet](cheatsheet/README.md)
   * [VIM](cheatsheet/vim.md)
   * [Bash](cheatsheet/bash.md)
   * [Git](cheatsheet/git.md)
