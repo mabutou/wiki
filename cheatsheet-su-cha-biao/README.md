@@ -1,2 +1,2 @@
-# Cheatsheet 速查表
+# cheatsheet
 
