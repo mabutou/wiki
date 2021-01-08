@@ -1,7 +1,5 @@
 # ffmpeg
 
-
-
 ```text
 ##############################################################################
 # FFMPEG CHEATSHEET (中文速查表)  -  by skywind (created on 2020/09/20)
@@ -99,8 +97,5 @@ ffmpeg -i "<url>" out.mp4                                   # 下载视频
 
 https://cheatography.com/thetartankilt/cheat-sheets/ffmpeg/
 http://qwinff.github.io/
-
-
-
 ```
 

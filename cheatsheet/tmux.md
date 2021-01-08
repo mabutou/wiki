@@ -166,6 +166,5 @@ http://man.openbsd.org/OpenBSD-current/man1/tmux.1
 
 可以通过 $HOME/.tmux.conf 更改配置, 参考一些比较好的 tmux 配置:
 https://github.com/gpakosz/.tmux
-
 ```
 
