@@ -5,5 +5,3 @@
 docker exec -it container-id reset-password
 ```
 
-
-

@@ -4,5 +4,3 @@
 docker images --format "{{.ID}}\t{{.Size}}\t{{.Repository}}:{{.Tag}}" | sort -k 2 -hr
 ```
 
-
-

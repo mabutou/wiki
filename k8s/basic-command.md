@@ -1,7 +1,5 @@
 # basic command
 
-
-
 获取所有命名空间上的pod`kubectl get pod -o wide --all-namespaces`
 
 * 查看pod IP时使用`kubectl get services`
@@ -22,15 +20,15 @@
   kubectl get services -n kube-system -l k8s-app=kube-dns -o yaml >kube-dns-services.yaml
   ```
 
-### `导出proxy`　
+## `导出proxy`
 
-### `kubectl get ds -n kube-system -l k8s-app=kube-proxy -o yaml>kube-proxy-ds.yaml`　
+## `kubectl get ds -n kube-system -l k8s-app=kube-proxy -o yaml>kube-proxy-ds.yaml`
 
-### 导出所有 configmap　`kubectl get configmap -n kube-system -o wide -o yaml > configmap.yaml`
+## 导出所有 configmap　`kubectl get configmap -n kube-system -o wide -o yaml > configmap.yaml`
 
-### 复杂操作命令：
+## 复杂操作命令：
 
-#### 删除kube-system 下Evicted状态的所有pod：　`kubectl get pods -n kube-system |grep Evicted| awk '{print $1}'|xargs kubectl delete pod -n kube-system`
+### 删除kube-system 下Evicted状态的所有pod：　`kubectl get pods -n kube-system |grep Evicted| awk '{print $1}'|xargs kubectl delete pod -n kube-system`
 
 * 重启kubelet服务
 

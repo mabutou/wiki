@@ -1,7 +1,5 @@
 # add swapfile
 
-
-
 ```text
 sudo swapon --show
 sudo fallocate -l 1G /swapfile
@@ -18,7 +16,7 @@ cat /proc/sys/vm/swappiness
 sudo sysctl vm.swappiness=10
 ```
 
-### **Adjusting the Swappiness Value**
+## **Adjusting the Swappiness Value**
 
 Swappiness is a Linux kernel property that defines how often the system will use the swap space. Swappiness can have a value between 0 and 100. A low value will make the kernel to try to avoid swapping whenever possible while a higher value will make the kernel to use the swap space more aggressively.
 
@@ -44,9 +42,9 @@ To make this parameter persistent across reboots append the following line to th
 
 The optimal swappiness value depends on your system workload and how the memory is being used. You should adjust this parameter in small increments to find an optimal value.
 
-### **Removing a Swap File**
+## **Removing a Swap File**
 
-### **Removing a Swap File**
+## **Removing a Swap File**
 
 To deactivate and remove the swap file, perform the steps below:
 

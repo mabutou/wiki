@@ -15,5 +15,3 @@
 0 0 * * * /usr/sbin/logrotate /etc/logrotate.d/iotop > /dev/null 2>&1 &
 ```
 
-
-

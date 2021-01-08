@@ -17,9 +17,9 @@ Node.js 文档镜像: http://npm.taobao.org/mirrors/node/latest/docs/api/index.h
 NPM 镜像: https://npm.taobao.org/mirrors/npm/
 electron 镜像: https://npm.taobao.org/mirrors/electron/
 node-inspector 镜像: https://npm.taobao.org/mirrors/node-inspector/
-1401523	个模块	15079084	个模块版本	316	次删除
-37195833	次本日下载	166601377	次本周下载	1362642488	次本月下载
-64338458	次昨日下载	388566386	次上周下载	1626545747	次上月下载
+1401523    个模块    15079084    个模块版本    316    次删除
+37195833    次本日下载    166601377    次本周下载    1362642488    次本月下载
+64338458    次昨日下载    388566386    次上周下载    1626545747    次上月下载
 Version Badge
 Default style is flat-square.
 

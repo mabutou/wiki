@@ -3,7 +3,6 @@
 设置Docker容器日志文件大小限制
 
 ```text
-
 1.新建/etc/docker/daemon.json，若有就不用新建了。添加log-dirver和log-opts参数，样例如下：
 
 # vim /etc/docker/daemon.json
@@ -23,7 +22,7 @@
 max-size=200m，意味着一个容器日志大小上限是200M， 
 max-file=3，意味着一个容器有三个日志，分别是id+.json、id+1.json、id+2.json。
 
- 
+
 
 2.然后重启docker的守护线程
 
@@ -31,7 +30,7 @@ max-file=3，意味着一个容器有三个日志，分别是id+.json、id+1.jso
 
 sudo systemctl daemon-reload
 sudo systemctl restart docker
- 
+
 
 【需要注意的是：设置的日志大小规则，只对新建的容器有效】
 ```

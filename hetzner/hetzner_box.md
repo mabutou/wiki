@@ -1,7 +1,5 @@
 # hetzner\_box
 
-
-
 username xxx
 
 上传ssh公钥（23端口）

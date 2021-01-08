@@ -4,5 +4,3 @@
 df -h|awk '{if($1 != "overlay" && $1 !="shm" && $1 != "tmpfs") print $0}'
 ```
 
-
-

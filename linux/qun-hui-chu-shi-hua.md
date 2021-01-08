@@ -27,5 +27,3 @@ make install
 cp neofetch /usr/bin/
 ```
 
-
-

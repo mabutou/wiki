@@ -4,5 +4,3 @@
 curl -u user:$(cat .passwordfile)
 ```
 
-
-
