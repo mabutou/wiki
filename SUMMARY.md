@@ -78,6 +78,7 @@
 * [VMware](vmware/README.md)
   * [虚拟机设置静态ip, Vmware 虚拟机配置全攻略 - 少数派](vmware/xu-ni-ji-she-zhi-jing-tai-ip-vmware-xu-ni-ji-pei-zhi-quan-gong-lve-shao-shu-pai.md)
 * [Hetzner](hetzner/README.md)
+  * [hz 单ip 独服 安装 proxmox 后网卡配置](hetzner/hz-dan-ip-du-fu-an-zhuang-proxmox-hou-wang-ka-pei-zhi.md)
   * [hetzner\_box](hetzner/hetzner_box.md)
 * [镜像源](jing-xiang-jia-su/README.md)
   * [pip 清华源](jing-xiang-jia-su/pip-qing-hua-yuan.md)
