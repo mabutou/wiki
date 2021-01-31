@@ -2,6 +2,7 @@
 
 * [About](README.md)
 * [🤖 Linux](linux/README.md)
+  * [locales error](linux/locales-error.md)
   * [OpenSSH Slow: Hanging at SSH2\_MSG\_SERVICE\_ACCEPT received](linux/openssh-slow-hanging-at-ssh2_msg_service_accept-received.md)
   * [shell 命令按次数输出v2访问日志的 ip 统计](linux/shell-ming-ling-an-ci-shu-shu-chu-v2-fang-wen-ri-zhi-de-ip-tong-ji.md)
   * [ssh 端口转发脚本](linux/ssh-duan-kou-zhuan-fa-jiao-ben.md)
@@ -25,6 +26,7 @@
   * [curl 请求带有用户名和密码的 url](linux/curl-qing-qiu-dai-you-yong-hu-ming-he-mi-ma-de-url.md)
   * [按时间筛选跨行日志](linux/an-shi-jian-shai-xuan-kua-hang-ri-zhi.md)
 * [❄️ K8S](k8s/README.md)
+  * [镜像批量打标签并推送](k8s/jing-xiang-pi-liang-da-biao-qian-bing-tui-song.md)
   * [basic command](k8s/basic-command.md)
   * [busybox 解析 pod ip](k8s/busybox-jie-xi-pod-ip.md)
   * [kubectl set node label](k8s/kubectl-set-node-label.md)
