@@ -2,6 +2,7 @@
 
 * [About](README.md)
 * [🤖 Linux](linux/README.md)
+  * [查看大文件](linux/cha-kan-da-wen-jian.md)
   * [install xrdp](linux/install-xrdp.md)
   * [locales error](linux/locales-error.md)
   * [OpenSSH Slow: Hanging at SSH2\_MSG\_SERVICE\_ACCEPT received](linux/openssh-slow-hanging-at-ssh2_msg_service_accept-received.md)
@@ -65,7 +66,7 @@
   * [卓越性能模式](windows/zhuo-yue-xing-neng-mo-shi.md)
 * [📱 Application](application/README.md)
   * [chrome 清除 dns && https 缓存](application/chrome-qing-chu-dns-https-huan-cun.md)
-* [Cheatsheet](cheatsheet/README.md)
+* [⌨️ Cheatsheet](cheatsheet/README.md)
   * [VIM](cheatsheet/vim.md)
   * [Bash](cheatsheet/bash.md)
   * [Git](cheatsheet/git/README.md)
