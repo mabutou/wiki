@@ -2,6 +2,7 @@
 
 * [About](README.md)
 * [🤖 Linux](linux/README.md)
+  * [install xrdp](linux/install-xrdp.md)
   * [locales error](linux/locales-error.md)
   * [OpenSSH Slow: Hanging at SSH2\_MSG\_SERVICE\_ACCEPT received](linux/openssh-slow-hanging-at-ssh2_msg_service_accept-received.md)
   * [shell 命令按次数输出v2访问日志的 ip 统计](linux/shell-ming-ling-an-ci-shu-shu-chu-v2-fang-wen-ri-zhi-de-ip-tong-ji.md)
