@@ -2,6 +2,7 @@
 
 * [About](README.md)
 * [🤖 Linux](linux/README.md)
+  * [僵尸进程](linux/jiang-shi-jin-cheng.md)
   * [查看大文件](linux/cha-kan-da-wen-jian.md)
   * [install xrdp](linux/install-xrdp.md)
   * [locales error](linux/locales-error.md)
@@ -36,6 +37,7 @@
   * [k8s proxy](k8s/k8s-proxy.md)
   * [Force delete POD](k8s/force-delete-pod.md)
 * [🐳 Docker](docker/README.md)
+  * [根据进程pid查看该进程所属的容器](docker/gen-ju-jin-cheng-pid-cha-kan-gai-jin-cheng-suo-shu-de-rong-qi.md)
   * [docker pull 设置下载线程数](docker/docker-pull-she-zhi-xia-zai-xian-cheng-shu.md)
   * [查看数据卷目录](docker/cha-kan-shu-ju-juan-mu-lu.md)
   * [delete dangling images](docker/delete-dangling-images.md)
