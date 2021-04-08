@@ -4,7 +4,7 @@
 sudo swapon --show
 sudo fallocate -l 1G /swapfile
 sudo dd if=/dev/zero of=/swapfile bs=1024 count=1048576
-sudo dd if=/dev/zero of=/swapfile bs=1024 count=524
+sudo dd if=/dev/zero of=/swapfile bs=1024 count=524288
 sudo chmod 600 /swapfile
 sudo mkswap /swapfile
 sudo swapon /swapfile
