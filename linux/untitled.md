@@ -1,10 +1,14 @@
+---
+description: >-
+  clip from
+  https://www.thegeekstuff.com/2010/11/50-linux-commands/?spm=a2c4g.11186623.2.13.431059f5ndbebj
+---
+
 # 50 Most Frequently Used UNIX
 
 ![](https://static.thegeekstuff.com/wp-content/uploads/2010/11/50-linux-commands-300x176.png)This article provides practical examples for 50 most frequently used commands in Linux / UNIX.
 
-This is not a comprehensive list by any means, but this should give you a jumpstart on some of the common Linux commands. Bookmark this article for your future reference.  
-  
- Did I miss any frequently used Linux commands? [Leave a comment]() and let me know.
+This is not a comprehensive list by any means, but this should give you a jumpstart on some of the common Linux commands. Bookmark this article for your future reference.
 
 ## 1. tar command examples
 
