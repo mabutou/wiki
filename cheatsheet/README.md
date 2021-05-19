@@ -1,2 +1,2 @@
-# Cheatsheet
+# ⌨️ Cheatsheet
 
