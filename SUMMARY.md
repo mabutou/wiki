@@ -2,6 +2,7 @@
 
 * [About](README.md)
 * [🤖 Linux](linux/README.md)
+  * [dpkg: warning: files list file for package 'x' missing](linux/dpkg-warning-files-list-file-for-package-x-missing.md)
   * [转发本地代理到服务器](linux/zhuan-fa-ben-di-dai-li-dao-fu-wu-qi.md)
   * [50 Most Frequently Used UNIX](linux/50-linux-commands.md)
   * [文本搜索 Ripgrep](linux/wen-ben-sou-suo-ripgrep.md)
