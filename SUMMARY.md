@@ -2,6 +2,8 @@
 
 * [About](README.md)
 * [🤖 Linux](linux/README.md)
+  * [Centos 7](linux/centos-7/README.md)
+    * [centos7 安装 MySQL 客户端](linux/centos-7/centos7-an-zhuang-mysql-ke-hu-duan.md)
   * [Ubuntu](linux/ubuntu/README.md)
     * [清理ubuntu磁盘空间](linux/ubuntu/qing-li-ubuntu-ci-pan-kong-jian.md)
   * [dpkg: warning: files list file for package 'x' missing](linux/dpkg-warning-files-list-file-for-package-x-missing.md)
