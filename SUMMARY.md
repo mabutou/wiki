@@ -37,6 +37,8 @@
   * [ubuntu 内核升级脚本](linux/ubuntu-nei-he-sheng-ji-jiao-ben.md)
   * [curl 请求带有用户名和密码的 url](linux/curl-qing-qiu-dai-you-yong-hu-ming-he-mi-ma-de-url.md)
   * [按时间筛选跨行日志](linux/an-shi-jian-shai-xuan-kua-hang-ri-zhi.md)
+* [🐬 Front-end](front-end/README.md)
+  * [清理yarn/npm本地缓存](front-end/qing-li-yarnnpm-ben-di-huan-cun.md)
 * [❄️ K8S](k8s/README.md)
   * [批量删除failed pod](k8s/pi-liang-shan-chu-failed-pod.md)
   * [镜像批量打标签并推送](k8s/jing-xiang-pi-liang-da-biao-qian-bing-tui-song.md)
