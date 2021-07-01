@@ -103,6 +103,8 @@
 * [Hetzner](hetzner/README.md)
   * [hz 单ip 独服 安装 proxmox 后网卡配置](hetzner/hz-dan-ip-du-fu-an-zhuang-proxmox-hou-wang-ka-pei-zhi.md)
   * [hetzner\_box](hetzner/hetzner_box.md)
+* [Oracle-Cloud-ARM](oracle-cloud-arm/README.md)
+  * [修改引导卷大小](oracle-cloud-arm/xiu-gai-yin-dao-juan-da-xiao.md)
 * [镜像源](jing-xiang-jia-su/README.md)
   * [pip 清华源](jing-xiang-jia-su/pip-qing-hua-yuan.md)
   * [ubuntu 阿里云镜像](jing-xiang-jia-su/ubuntu-eli-yun-jing-xiang.md)
