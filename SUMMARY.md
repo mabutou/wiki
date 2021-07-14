@@ -2,6 +2,7 @@
 
 * [About](README.md)
 * [🤖 Linux](linux/README.md)
+  * [goaccess 解析日志文件](linux/goaccess-jie-xi-ri-zhi-wen-jian.md)
   * [根据端口号，找到对应进程](linux/gen-ju-duan-kou-hao-zhao-dao-dui-ying-jin-cheng.md)
   * [Centos 7](linux/centos-7/README.md)
     * [centos7 安装 MySQL 客户端](linux/centos-7/centos7-an-zhuang-mysql-ke-hu-duan.md)
