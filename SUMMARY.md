@@ -80,7 +80,7 @@
   * [timemachine list and clean](mac/timemachine-list-and-clean.md)
   * [dmg \|\| .app 提示文件已损坏](mac/dmg-.app-ti-shi-wen-jian-yi-sun-huai.md)
   * [重启 Dock 栏](mac/zhong-qi-dock-lan.md)
-  * [macOS 禁用 ssh 密码登录](mac/macos-jin-yong-ssh-mi-ma-deng-lu.md)
+  * [macOS\(BSD system\) 禁用 ssh 密码登录](mac/macos-jin-yong-ssh-mi-ma-deng-lu.md)
 * [🖥 Windows](windows/README.md)
   * [enable windows ping icmp](windows/enable-windows-ping-icmp.md)
   * [关闭休眠模式](windows/guan-bi-xiu-mian-mo-shi.md)
