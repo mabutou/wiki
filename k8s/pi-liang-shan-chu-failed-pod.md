@@ -1,6 +1,7 @@
 # 批量删除failed pod
 
 ```text
+kubectl get pods --field-selector=status.phase=Failed --all-namespaces
 export ns=kube-system
 kubectl get pods --field-selector=status.phase=Failed -n $ns | cut -d' ' -f 1 | xargs kubectl delete pod -n $ns
 ```
