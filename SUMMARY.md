@@ -73,6 +73,7 @@
 * [🐍 Python](python/README.md)
   * [start a simple http\_server](python/start-a-simple-http_server.md)
 * [🍎 Mac](mac/README.md)
+  * [创建 macOS U盘启动盘](mac/chuang-jian-macosupan-qi-dong-pan.md)
   * [Tmux 启动时 127 错误](mac/tmux-qi-dong-shi-127-cuo-wu.md)
   * [Kill Apple Remote Desktop via ssh](mac/kill-apple-remote-desktop-via-ssh.md)
   * [hack wechat sqlite](mac/hack-wechat-sqlite.md)
