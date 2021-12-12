@@ -73,6 +73,7 @@
 * [🐍 Python](python/README.md)
   * [start a simple http\_server](python/start-a-simple-http\_server.md)
 * [🍎 Mac](mac/README.md)
+  * [MacOS 浏览器播放音频没声音](mac/macos-liu-lan-qi-bo-fang-yin-pin-mei-sheng-yin.md)
   * [mac 执行sed -i指令时，提示extra characters at the end of command](mac/mac-zhi-hang-sedizhi-ling-shi-ti-shi-extra-characters-at-the-end-of-command.md)
   * [创建 macOS U盘启动盘](mac/chuang-jian-macosupan-qi-dong-pan.md)
   * [Tmux 启动时 127 错误](mac/tmux-qi-dong-shi-127-cuo-wu.md)
